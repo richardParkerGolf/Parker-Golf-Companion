@@ -1,0 +1,9 @@
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  output: "export",
+  basePath: process.env.GITHUB_ACTIONS ? `/${(process.env.GITHUB_REPOSITORY || "").split("/")[1] || "parker-companion"}` : "",
+  assetPrefix: process.env.GITHUB_ACTIONS ? `/${(process.env.GITHUB_REPOSITORY || "").split("/")[1] || "parker-companion"}/` : undefined,
+};
+
+export default nextConfig;
