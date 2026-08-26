@@ -1,2 +1,2 @@
-:HL["/_next/static/css/2dd0372b8253dc6c.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"oiZqMMJftg1Lp7xJXQdhd"}
+:HL["/Parker-Golf-Companion/_next/static/css/f66c0ceab3c092c0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"VSStxqB0zgZ5egIN3j3fJ"}
