@@ -2,5 +2,5 @@
 2:I[4947,["974","static/chunks/app/page-01daba77dfdbe951.js"],"ParkerApp"]
 3:I[3634,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"luM0T-FeMnTrjQCrBAhGb"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Q3va-tQu1FHJCU1JwP7Lp"}
 5:null
