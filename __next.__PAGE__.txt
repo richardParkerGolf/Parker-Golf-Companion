@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[4947,["974","static/chunks/app/page-108c9f82ed549e46.js"],"ParkerApp"]
+2:I[4947,["974","static/chunks/app/page-3d84ccf1a39846d1.js"],"ParkerApp"]
 3:I[3634,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Fz_dXHx7gokFr8KvU1h96"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-fPsd-v7c1o-xvdTKQvCZ"}
 5:null
